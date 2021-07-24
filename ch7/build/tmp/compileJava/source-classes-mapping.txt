@@ -1,7 +1,0 @@
-FighterTest.java
- Attackable
- Fightable
- Fighter
- FighterTest
- Movable
- Unit
